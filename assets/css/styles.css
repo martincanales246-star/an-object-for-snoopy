@@ -4,6 +4,10 @@
 	font-family: Helvetica;
 }
 
+body {
+	background-color: light-purple;
+}
+
 h1 {
 	text-align: center;
 }
@@ -11,7 +15,7 @@ h1 {
 h3 {
 	text-align: center;
 	color: red;
-	font-size: 45px;
+	font-size: 35px;
 }
 
 p {
