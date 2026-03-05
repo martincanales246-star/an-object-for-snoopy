@@ -4,6 +4,15 @@
 	font-family: Helvetica;
 }
 
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	color: red;
+}
+
 p {
 	font-size: 30px;
 }
