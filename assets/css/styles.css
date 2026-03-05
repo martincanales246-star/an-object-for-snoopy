@@ -6,17 +6,17 @@
 
 h1 {
 	text-align: center;
-	font-family: "Comic Relief";
+	font-family: "Comic Relief", system-ui;
 }
 
 h3 {
 	text-align: center;
 	color: red;
 	font-size: 35px;
-	font-family: "Comic Relief";
+	font-family: "Comic Relief", system-ui;
 }
 
 p {
 	font-size: 30px;
-	font-family: "Comic Relief";
+	font-family: "Comic Relief", system-ui;
 }
